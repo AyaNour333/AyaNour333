@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
   
   <!-- Backend -->
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
@@ -32,6 +33,7 @@
   <img src="https://img.shields.io/badge/Zod-023E8A?style=for-the-badge&logo=zod&logoColor=white" alt="Zod"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   
@@ -41,6 +43,31 @@
 </p>
 
 
+## Most Used Languages
+
+<div class="most-used-languages">
+    <h2>Most Used Languages</h2>
+    <div class="language-bar">
+        <div class="language-bar-item" style="width: 77.64%">
+            <span>Jupyter Notebook (77.64%)</span>
+        </div>
+        <div class="language-bar-item" style="width: 10.45%">
+            <span>CSS (10.45%)</span>
+        </div>
+        <div class="language-bar-item" style="width: 9.28%">
+            <span>JavaScript (9.28%)</span>
+        </div>
+        <div class="language-bar-item" style="width: 1.34%">
+            <span>HTML (1.34%)</span>
+        </div>
+        <div class="language-bar-item" style="width: 1.08%">
+            <span>SCSS (1.08%)</span>
+        </div>
+        <div class="language-bar-item" style="width: 0.20%">
+            <span>Python (0.20%)</span>
+        </div>
+    </div>
+</div>
 
 <!--
 **AyaNour333/AyaNour333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
