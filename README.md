@@ -1,7 +1,6 @@
-## Peace be upon you! I’m Aya
+## <h3 align="center">Peace be upon you! I’m Aya</h3> 
 
-### a passionate Computer Science student and a dedicated front-end developer with a keen eye for detail and design👾.
-
+<h4 align="center">a passionate Computer Science student and a dedicated front-end developer with a keen eye for detail and design<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />.</h4> 
 
 ## 🚀 Technologies I Use  
 
@@ -36,21 +35,35 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
   
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
-## Most Used Languages
+###
 
-* **TypeScript**: 50.00%
-* **JavaScript**: 30.00%
-* **Python**: 15.00%
-* **CSS**: 3.00%
-* **HTML**: 1.00%
-* **SCSS**: 1.00%
+## 📊 GitHub Stats
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayanour333&label=Profile%20views&color=0e75b6&style=flat" alt="ayanour333" /> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayanour333&show_icons=true&locale=en&layout=compact" alt="ayanour333" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayanour333&show_icons=true&locale=en" alt="ayanour333" /></p>
+
+## 🏆 GitHub Trophies
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayanour333" alt="ayanour333" /></a> </p>
+
+
+
+
 
 <!--
 **AyaNour333/AyaNour333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
