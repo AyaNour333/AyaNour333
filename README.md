@@ -1,6 +1,6 @@
 ## Peace be upon you! I’m Aya
 
-# a passionate Computer Science student and a dedicated front-end developer with a keen eye for detail and design.
+### a passionate Computer Science student and a dedicated front-end developer with a keen eye for detail and design👾.
 
 
 ## 🚀 Technologies I Use  
