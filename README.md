@@ -45,29 +45,12 @@
 
 ## Most Used Languages
 
-<div class="most-used-languages">
-    <h2>Most Used Languages</h2>
-    <div class="language-bar">
-        <div class="language-bar-item" style="width: 77.64%">
-            <span>Jupyter Notebook (77.64%)</span>
-        </div>
-        <div class="language-bar-item" style="width: 10.45%">
-            <span>CSS (10.45%)</span>
-        </div>
-        <div class="language-bar-item" style="width: 9.28%">
-            <span>JavaScript (9.28%)</span>
-        </div>
-        <div class="language-bar-item" style="width: 1.34%">
-            <span>HTML (1.34%)</span>
-        </div>
-        <div class="language-bar-item" style="width: 1.08%">
-            <span>SCSS (1.08%)</span>
-        </div>
-        <div class="language-bar-item" style="width: 0.20%">
-            <span>Python (0.20%)</span>
-        </div>
-    </div>
-</div>
+* **TypeScript**: 50.00%
+* **JavaScript**: 30.00%
+* **Python**: 15.00%
+* **CSS**: 3.00%
+* **HTML**: 1.00%
+* **SCSS**: 1.00%
 
 <!--
 **AyaNour333/AyaNour333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
