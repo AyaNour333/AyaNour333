@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<img src= "https://github.com/kmoroz/kmoroz/blob/master/readme.gif?raw=true"/>
+<img src= "https://github.com/user-attachments/assets/a59f4d49-bf09-4fcf-b603-961982d6f29e/>
 
 
 <h3 align="left">Languages and Tools:</h3>
