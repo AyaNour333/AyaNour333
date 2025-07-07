@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<img src= "https://github.com/user-attachments/assets/796f7511-fbb6-4f48-a9fe-9e9cad489cf6](https://private-user-images.githubusercontent.com/74038190/325895812-1e86d788-24c2-455c-8c47-8512f16f27a3.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE4NjAzNDEsIm5iZiI6MTc1MTg2MDA0MSwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU4MTItMWU4NmQ3ODgtMjRjMi00NTVjLThjNDctODUxMmYxNmYyN2EzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzA3VDAzNDcyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUxZWE0YmFjNzI2MTA0ZDZlMDE1ZmM1YzVlNmE3ZmQ4OTA2NWQ5OTNiNjM1NjQ4NDQ0ZmE3ODlmZTVmOTk1NTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.DYwnCVZHazh9ypVEvsSiKSk24S9-roArlAkU2B5x2Ms"/>
+<img src= "https://github.com/kmoroz/kmoroz/blob/master/readme.gif?raw=true"/>
 
 
 <h3 align="left">Languages and Tools:</h3>
